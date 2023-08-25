@@ -1,8 +1,9 @@
 .cabecalho
 {
     background-color: #D9D9D9;
-    width: 1440px;
     height: 300px;
+    margin: 0px;
+    padding: 20px
 }
 
 .corpo
@@ -13,6 +14,5 @@
 div
 {
     background-color: blue;
-    margin-top: 100px;
     border: 2px solid black;
 }
